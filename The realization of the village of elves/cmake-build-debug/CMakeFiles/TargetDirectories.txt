@@ -1,0 +1,5 @@
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/The realization of the village of elves/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/The realization of the village of elves/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/The realization of the village of elves/cmake-build-debug/src/CMakeFiles/The_realization_of_the_village_of_elves.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/The realization of the village of elves/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/The realization of the village of elves/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/Simulation of the company's work/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/Simulation of the company's work/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/Simulation of the company's work/cmake-build-debug/src/CMakeFiles/Simulation_of_the_company_s_work.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/Simulation of the company's work/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/Simulation of the company's work/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
