@@ -1,0 +1,14 @@
+# ninja log v5
+7	232	7260005898897993	source/CMakeFiles/The_hierarchy_of_geometric_shapes.dir/geo-shapes.cpp.obj	dddaa6afaf25d607
+0	417	7260005900762999	source/CMakeFiles/The_hierarchy_of_geometric_shapes.dir/main.cpp.obj	f286c44c15d50d35
+418	854	7260005905055540	source/The_hierarchy_of_geometric_shapes.exe	1be2600a91c97b52
+3	399	7260006501025459	source/CMakeFiles/The_hierarchy_of_geometric_shapes.dir/main.cpp.obj	f286c44c15d50d35
+399	805	7260006505024772	source/The_hierarchy_of_geometric_shapes.exe	1be2600a91c97b52
+3	513	7260080504012424	source/CMakeFiles/The_hierarchy_of_geometric_shapes.dir/main.cpp.obj	f286c44c15d50d35
+9	519	7260080504072260	source/CMakeFiles/The_hierarchy_of_geometric_shapes.dir/geo-shapes.cpp.obj	dddaa6afaf25d607
+519	980	7260080508649998	source/The_hierarchy_of_geometric_shapes.exe	1be2600a91c97b52
+3	391	7260080686711828	source/CMakeFiles/The_hierarchy_of_geometric_shapes.dir/main.cpp.obj	f286c44c15d50d35
+391	791	7260080690651274	source/The_hierarchy_of_geometric_shapes.exe	1be2600a91c97b52
+12	564	7260099641903422	source/CMakeFiles/The_hierarchy_of_geometric_shapes.dir/geo-shapes.cpp.obj	dddaa6afaf25d607
+3	586	7260099642122829	source/CMakeFiles/The_hierarchy_of_geometric_shapes.dir/main.cpp.obj	f286c44c15d50d35
+586	1036	7260099646550990	source/The_hierarchy_of_geometric_shapes.exe	1be2600a91c97b52

@@ -1,0 +1,5 @@
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/The hierarchy of geometric shapes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/The hierarchy of geometric shapes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/The hierarchy of geometric shapes/cmake-build-debug/source/CMakeFiles/The_hierarchy_of_geometric_shapes.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/The hierarchy of geometric shapes/cmake-build-debug/source/CMakeFiles/edit_cache.dir
+C:/Users/Илья/Desktop/Skb 27 - 40/27-practical/The hierarchy of geometric shapes/cmake-build-debug/source/CMakeFiles/rebuild_cache.dir
